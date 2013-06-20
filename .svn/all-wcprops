@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/461/trunk/pr2_coffee/multi_map_navigation
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/429/trunk/pr2_coffee/multi_map_navigation/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/429/trunk/pr2_coffee/multi_map_navigation/Makefile
+END
+stack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/458/trunk/pr2_coffee/multi_map_navigation/stack.xml
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/442/trunk/pr2_coffee/multi_map_navigation/manifest.xml
+END

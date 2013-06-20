@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/461/trunk/pr2_coffee/multi_map_navigation/scripts
+END
+multi_map_navigation_test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/435/trunk/pr2_coffee/multi_map_navigation/scripts/multi_map_navigation_test
+END
+multi_map_navigation
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/459/trunk/pr2_coffee/multi_map_navigation/scripts/multi_map_navigation
+END
+amcl_restarter
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/435/trunk/pr2_coffee/multi_map_navigation/scripts/amcl_restarter
+END
+transition_test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/461/trunk/pr2_coffee/multi_map_navigation/scripts/transition_test
+END
+vacuous_transition
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/435/trunk/pr2_coffee/multi_map_navigation/scripts/vacuous_transition
+END
